@@ -40,7 +40,7 @@ int sum_sqr_diff(int num_stop){
 }
 
 int main(){
-  //printf( "%d\n", solve35(1000));
+  printf( "%d\n", solve35(1000));
   printf("%d\n", sum_prime(10));
-  //printf("%d\n", sum_sqr_diff(100));
+  printf("%d\n", sum_sqr_diff(100));
 }
